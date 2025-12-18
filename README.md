@@ -12,11 +12,12 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 
 | Category | Skills |
 |----------|--------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Programming | Python, C, Java, C# |
-| ![ML](https://img.icons8.com/color/48/000000/artificial-intelligence.png) ML & AI | TensorFlow, PyTorch, CNNs, Federated Learning, LLM, RAG, Prompt Engineering, NLP |
-| ![Data](https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000.png) Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
-| ![Web](https://img.icons8.com/color/48/000000/html-5--v1.png) Web Development | Django, HTML/CSS, JavaScript, React |
-| ![Tools](https://img.icons8.com/?size=100&id=sm8CzMKNcuhi&format=png&color=000000.png) Tools | Jupyter Notebook, VS Code, Git, AWS, Excel, CI/CD basics |
+| <img src="https://img.icons8.com/color/48/000000/python.png" width="24"/> Programming | Python, C, Java, C# |
+| <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="24"/> ML & AI | TensorFlow, PyTorch, CNNs, Federated Learning, LLM, RAG, Prompt Engineering, NLP |
+| <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000.png" width="24"/> Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
+| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="24"/> Web Development | Django, HTML/CSS, JavaScript, React |
+| <img src="https://img.icons8.com/?size=100&id=sm8CzMKNcuhi&format=png&color=000000.png" width="24"/> Tools | Jupyter Notebook, VS Code, Git, AWS, Excel, CI/CD basics |
+
 
 ---
 
