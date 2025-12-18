@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Amritha Dileep Kumar
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zY21kOG5vMTl4OHFxbzc3MnN5bnNzMmJzOWxwb21pdWJzbmx4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)" width="250"/>
 </p>
 
 I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experience in building machine learning models, LLM-powered applications, and data-driven dashboards. I love creating solutions that combine **intelligence, usability, and real-world impact**.
