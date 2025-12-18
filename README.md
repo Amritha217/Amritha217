@@ -14,11 +14,12 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 |----------|--------|
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Programming | Python, C, Java, C# |
 | ![ML](https://img.icons8.com/color/48/000000/artificial-intelligence.png) ML & AI | TensorFlow, PyTorch, CNNs, Federated Learning, LLM, RAG, Prompt Engineering, NLP |
-| ![Data](https://img.icons8.com/color/48/000000/microsoft-power-bi.png) Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
+| ![Data](https://img.icons8.com/?size=100&id=FQ9NVJuXbDIv&format=png&color=000000.png) Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
 | ![Web](https://img.icons8.com/color/48/000000/html-5--v1.png) Web Development | Django, HTML/CSS, JavaScript, React |
 | ![Tools](https://img.icons8.com/color/48/000000/tools.png) Tools | Jupyter Notebook, VS Code, Git, AWS, Excel, CI/CD basics |
 
 ---
+
 
 ### Skill Proficiency
 
