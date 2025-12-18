@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Amritha Dileep Kumar
 
-![Profile Banner](https://i.imgur.com/2a5QyXk.png)  <!-- Optional banner image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+</p>
 
 I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experience in building machine learning models, LLM-powered applications, and data-driven dashboards. I love creating solutions that combine **intelligence, usability, and real-world impact**.
 
@@ -10,21 +12,26 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 
 | Category | Skills |
 |----------|--------|
-| Programming | Python, C, Java, C# |
-| ML & AI | TensorFlow, PyTorch, CNNs, Federated Learning, LLM, RAG, Prompt Engineering, NLP |
-| Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
-| Web Development | Django, HTML/CSS, JavaScript, React |
-| Tools | Jupyter Notebook, VS Code, Git, AWS, Excel, CI/CD basics |
+| ![Python](https://img.icons8.com/color/48/000000/python.png) Programming | Python, C, Java, C# |
+| ![ML](https://img.icons8.com/color/48/000000/artificial-intelligence.png) ML & AI | TensorFlow, PyTorch, CNNs, Federated Learning, LLM, RAG, Prompt Engineering, NLP |
+| ![Data](https://img.icons8.com/color/48/000000/microsoft-power-bi.png) Data & BI | SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, KPIs, ETL Basics |
+| ![Web](https://img.icons8.com/color/48/000000/html-5--v1.png) Web Development | Django, HTML/CSS, JavaScript, React |
+| ![Tools](https://img.icons8.com/color/48/000000/tools.png) Tools | Jupyter Notebook, VS Code, Git, AWS, Excel, CI/CD basics |
+
+---
 
 ### Skill Proficiency
 
-Python ██████████ 95%
-Machine Learning ████████ 80%
-Deep Learning ███████ 75%
-Power BI ██████ 65%
-Web Dev █████ 50%
-
-
+**Python**  
+`██████████` 95%  
+**Machine Learning**  
+`████████` 80%  
+**Deep Learning**  
+`███████` 75%  
+**Power BI**  
+`██████` 65%  
+**Web Dev**  
+`█████` 50%  
 
 ---
 
@@ -32,23 +39,23 @@ Web Dev █████ 50%
 
 ### AI & ML
 - **[AI-Tutor: Local LLM-powered Q&A Web App](#)**  
-  FastAPI + LangChain + FAISS + Hugging Face  
+  <img src="https://img.icons8.com/ios/40/ffffff/artificial-intelligence.png"/> FastAPI + LangChain + FAISS + Hugging Face  
   Integrated a local LLM to answer queries and implemented semantic search with FAISS.
 
 - **[Trusted Federated Learning](#)**  
-  Python-based framework to detect adversarial client behavior and perform retroactive unlearning.
+  <img src="https://img.icons8.com/ios/40/ffffff/network.png"/> Python-based framework to detect adversarial client behavior and perform retroactive unlearning.
 
 - **[Brain Tumor Detection using CNN](#)**  
-  Image classification with CNNs using TensorFlow and OpenCV. Achieved 88% accuracy.
+  <img src="https://img.icons8.com/ios/40/ffffff/brain.png"/> Image classification with CNNs using TensorFlow and OpenCV. Achieved 88% accuracy.
 
 ### Data & Analytics
 - **[Financial Sales Dashboard](#)**  
-  Power BI + SQL + Python  
+  <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI + SQL + Python  
   Created interactive dashboards to track sales, profits, KPIs, and region-based analysis.
 
 ### Web Development
 - **[Ecommerce Platform – VetPet](#)**  
-  Full-stack Django platform with MySQL backend, user authentication, product browsing, and vet consultations.
+  <img src="https://img.icons8.com/ios/40/ffffff/internet.png"/> Full-stack Django platform with MySQL backend, user authentication, product browsing, and vet consultations.
 
 ---
 
@@ -69,6 +76,3 @@ Web Dev █████ 50%
 
 ## ⚡ Fun Fact
 I enjoy **experimenting with AI models**, building dashboards, and combining tech with creativity to solve real-world problems!
-
----
-
