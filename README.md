@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Amritha Dileep Kumar
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zY21kOG5vMTl4OHFxbzc3MnN5bnNzMmJzOWxwb21pdWJzbmx4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)" width="250"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 </p>
 
 I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experience in building machine learning models, LLM-powered applications, and data-driven dashboards. I love creating solutions that combine **intelligence, usability, and real-world impact**.
@@ -38,23 +38,23 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 ## 💻 Projects
 
 ### AI & ML
-- **[AI-Tutor: Local LLM-powered Q&A Web App](#)**  
+- **[AI-Tutor: Local LLM-powered Q&A Web App](https://github.com/Amritha217/AI-Tutor)**  
   <img src="https://img.icons8.com/ios/40/ffffff/artificial-intelligence.png"/> FastAPI + LangChain + FAISS + Hugging Face  
   Integrated a local LLM to answer queries and implemented semantic search with FAISS.
 
 - **[Trusted Federated Learning](#)**  
   <img src="https://img.icons8.com/ios/40/ffffff/network.png"/> Python-based framework to detect adversarial client behavior and perform retroactive unlearning.
 
-- **[Brain Tumor Detection using CNN](#)**  
+- **[Brain Tumor Detection using CNN](https://github.com/Amritha217/Brain-Tumor-CNN)**  
   <img src="https://img.icons8.com/ios/40/ffffff/brain.png"/> Image classification with CNNs using TensorFlow and OpenCV. Achieved 88% accuracy.
 
 ### Data & Analytics
-- **[Financial Sales Dashboard](#)**  
+- **[Financial Sales Dashboard](https://github.com/Amritha217/Financial_Sales_Dashboard)**  
   <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI + SQL + Python  
   Created interactive dashboards to track sales, profits, KPIs, and region-based analysis.
 
 ### Web Development
-- **[Ecommerce Platform – VetPet](#)**  
+- **[Ecommerce Platform – VetPet]**  
   <img src="https://img.icons8.com/ios/40/ffffff/internet.png"/> Full-stack Django platform with MySQL backend, user authentication, product browsing, and vet consultations.
 
 ---
