@@ -51,15 +51,15 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
   <img src="https://img.icons8.com/ios/40/ffffff/brain.png"/> TensorFlow · OpenCV  
   Built a CNN-based image classifier for MRI scans and achieved 88% accuracy on tumor detection.
 
-- **Bug Tracker Web Application**  
+- **[Bug Tracker Web Application](https://github.com/Amritha217/Bug-Tracker)**  
   <img src="https://img.icons8.com/ios/40/ffffff/bug.png"/> Python · FastAPI · SQLAlchemy · Uvicorn  
   Built a full‑stack bug tracking system with RESTful APIs for creating, reading, updating, and deleting bug reports, using SQLAlchemy models for users, projects, and issues.
 
-- **Hybrid RAG-Based Meeting Assistant (Semantic + Time-Aware Search)**  
+- **[Hybrid RAG-Based Meeting Assistant (Semantic + Time-Aware Search)](https://github.com/Amritha217/Brain-Tumor-CNN)**
   <img src="https://img.icons8.com/ios/40/ffffff/time-machine.png"/> Python · LangChain · ChromaDB · Hugging Face · Sentence-Transformers  
   Implemented a RAG pipeline that combines semantic vector search with date-aware filters to answer questions over meeting transcripts, using MiniLM embeddings and FLAN‑T5 for summarized answers.
 
-- **AI-Augmented Energy Trading Research Pipeline (Forecasting + Backtesting + LLM Agent)**  
+- **[AI-Augmented Energy Trading Research Pipeline (Forecasting + Backtesting + LLM Agent)](https://github.com/Amritha217/energy-trading-system)**  
   <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Python · XGBoost · LightGBM · Prophet · FastAPI · Hugging Face  
   Developed an end‑to‑end pipeline for energy demand forecasting, backtesting a trading strategy, and integrating an LLM trading agent (Mistral‑7B) on top of a data pipeline and FastAPI + Streamlit interface.
 
@@ -68,7 +68,7 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
   <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI · SQL · Python  
   Created interactive dashboards to track sales, profits, KPIs, and region‑based performance.
 
-- **Real-Time BTC/USDT Market Data Pipeline & Analytics System**  
+- **[Real-Time BTC/USDT Market Data Pipeline & Analytics System](https://github.com/Amritha217/btc-market-pipeline)**  
   <img src="https://img.icons8.com/ios/40/ffffff/bitcoin.png"/> Python · FastAPI · SQLite · WebSocket · Pandas · Groq LLM · Docker · Chart.js  
   Built a real‑time pipeline that ingests live Binance prices, computes trading indicators, streams updates via WebSocket to a Chart.js dashboard, and integrates a Groq LLM for natural‑language market insights.
 
