@@ -25,15 +25,10 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 ### Skill Proficiency
 
 **Python**  
-`██████████` 95%  
 **Machine Learning**  
-`████████` 80%  
 **Deep Learning**  
-`███████` 75%  
-**Power BI**  
-`██████` 65%  
+**Power BI**    
 **Web Dev**  
-`█████` 50%  
 
 ---
 
@@ -41,7 +36,8 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 
 ### AI & ML
 - **[AI-Tutor: Local LLM-powered Q&A Web App](https://github.com/Amritha217/AI-Tutor)**  
-  <img src="https://img.icons8.com/ios/40/ffffff/artificial-intelligence.png"/> FastAPI · LangChain · FAISS · Hugging Face  
+  <img src="https://img.icons8.com/ios/40/ffffff/artificial-intelligence.png"/> FastAPI · LangChain · FAISS · Hugging Face
+  
   Integrated a local LLM to answer queries and implemented semantic search with FAISS.
 
 - **Trusted Federated Learning**  
