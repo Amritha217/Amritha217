@@ -68,7 +68,6 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 
   
 
-
 ### Data & Analytics
 - **[Financial Sales Dashboard](https://github.com/Amritha217/Financial_Sales_Dashboard)**  
   <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI · SQL · Python
