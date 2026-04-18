@@ -25,6 +25,7 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 ### Skill Proficiency
 
 **Python**  
+**AI**  
 **Machine Learning**  
 **Deep Learning**  
 **Power BI**    
@@ -67,11 +68,6 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
 
   
 
-- **[AI-Augmented Energy Trading Research Pipeline (Forecasting + Backtesting + LLM Agent)](https://github.com/Amritha217/energy-trading-system)**  
-  <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Python · XGBoost · LightGBM · Prophet · FastAPI · Hugging Face
-    
-  Developed an end‑to‑end pipeline for energy demand forecasting, backtesting a trading strategy, and integrating an LLM trading agent (Mistral‑7B) on top of a data pipeline and FastAPI + Streamlit interface.
-
 
 ### Data & Analytics
 - **[Financial Sales Dashboard](https://github.com/Amritha217/Financial_Sales_Dashboard)**  
@@ -79,11 +75,6 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
   
   Created interactive dashboards to track sales, profits, KPIs, and region‑based performance.
   
-
-- **[Real-Time BTC/USDT Market Data Pipeline & Analytics System](https://github.com/Amritha217/btc-market-pipeline)**  
-  <img src="https://img.icons8.com/ios/40/ffffff/bitcoin.png"/> Python · FastAPI · SQLite · WebSocket · Pandas · Groq LLM · Docker · Chart.js
-  
-  Built a real‑time pipeline that ingests live Binance prices, computes trading indicators, streams updates via WebSocket to a Chart.js dashboard, and integrates a Groq LLM for natural‑language market insights.
   
 
 ### Web Development
