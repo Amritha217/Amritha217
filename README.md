@@ -75,8 +75,8 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
   Created interactive dashboards to track sales, profits, KPIs, and region‑based performance.
 
 
--**[Customer Churn & Retention Analytics Dashboard](https://github.com/Amritha217/Customer-Churn-Retention-Analytics-Dashboard)**
-  <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI · SQL · Python
+- **[Customer Churn & Retention Analytics Dashboard](https://github.com/Amritha217/Customer-Churn-Retention-Analytics-Dashboard)**
+   <img src="https://img.icons8.com/ios/40/ffffff/combo-chart--v1.png"/> Power BI · SQL · Python
 
   Developed analytics project that analyzes customer subscription data to identify churn drivers, segment high-risk customers, and surface revenue insights
  
