@@ -41,7 +41,7 @@ I'm a passionate **AI/ML and Data Analytics enthusiast** with hands-on experienc
   
   Built a multi-user RAG document Q&A platform combining hybrid FAISS + BM25 retrieval, cross-encoder reranking, and Groq LLM inference with hallucination-aware response gating.
 
-  - **[PropLens: Dubai Real Estate Investment Analysis Platform](https://github.com/Amritha217/Proplens_rental_and_property_price_predictor)**  
+- **[PropLens: Dubai Real Estate Investment Analysis Platform](https://github.com/Amritha217/Proplens_rental_and_property_price_predictor)**  
   <img src="https://img.icons8.com/ios/40/ffffff/artificial-intelligence.png"/> Python · FastAPI · XGBoost · LightGBM · Random Forest · Catboost 
   
   Built a large-scale Dubai real estate valuation and investment platform using ML-based price prediction, leakage-safe feature engineering, trend calibration, confidence scoring, and ROI analysis.
